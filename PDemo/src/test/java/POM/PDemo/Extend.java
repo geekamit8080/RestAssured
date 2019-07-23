@@ -27,6 +27,7 @@ public class Extend {
 	
 		extent.flush();
 		System.out.println("Completed");
+		System.out.println("Yes");
 	}//main ends 
 	
 }//class ends 
